@@ -1,15 +1,4 @@
-# Astro Netlify Sanity Starter
-
-![Astro Netlify Sanity Starter](https://assets.stackbit.com/docs/astro-sanity-starter-thumb.jpg)
-
-[Live Demo](https://astro-sanity-starter-demo.netlify.app/)
-
-Netlify Astro and Sanity minimal starter with [visual editing](https://docs.netlify.com/visual-editor/overview/).
-
-| Prerequisites                                                                |
-| :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.17.+                                      |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+# welcome to AI Image Generator
 
 ## Getting Started
 
